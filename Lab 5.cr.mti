@@ -1,0 +1,29 @@
+{C:/Users/grewalb/Desktop/Lab 5/Memory.vhd} {0 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/grewalb/Desktop/Lab 5/Memory.vhd}
+QuestaSim-64 vcom 10.5e Compiler 2017.06 Jun 16 2017
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity RAM
+-- Compiling architecture staticRAM of RAM
+-- Compiling entity Registers
+-- Compiling architecture remember of Registers
+** Warning: C:/Users/grewalb/Desktop/Lab 5/Memory.vhd(115): (vcom-1186) Array type selected signal assignment expression must be of a locally static subtype.
+** Error: C:/Users/grewalb/Desktop/Lab 5/Memory.vhd(123): near "`": Tool directive is missing.
+** Error: C:/Users/grewalb/Desktop/Lab 5/Memory.vhd(123): near "`": tool directive not supported
+** Error: C:/Users/grewalb/Desktop/Lab 5/Memory.vhd(138): VHDL Compiler exiting
+
+} {14.0 17.0} {}} {C:/Users/grewalb/Desktop/Lab 5/tMemory.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/grewalb/Desktop/Lab 5/tMemory.vhd}
+QuestaSim-64 vcom 10.5e Compiler 2017.06 Jun 16 2017
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity tMemory_vhd
+-- Compiling architecture behavior of tMemory_vhd
+
+} {} {}}
